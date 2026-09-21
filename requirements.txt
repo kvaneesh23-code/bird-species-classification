@@ -1,0 +1,28 @@
+# ============================================================
+# Bird Species Classification
+# Python 3.10.x
+# ============================================================
+
+# Deep Learning
+tensorflow==2.10.0
+
+# Numerical Computing
+numpy==1.26.4
+
+# TensorFlow 2.10 compatibility
+protobuf==3.19.6
+
+# Image Processing
+Pillow
+
+# Visualization
+matplotlib
+
+# Machine Learning Utilities
+scikit-learn
+
+# Web Application
+streamlit==1.22.0
+
+# Clipboard Image Input
+streamlit-paste-button

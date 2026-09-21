@@ -1,0 +1,24 @@
+MobileNetV2 V4 Fine-Tuned Classification Report
+===============================================
+
+Validation Loss: 0.1747
+Validation Accuracy: 94.14%
+
+                       precision    recall  f1-score   support
+
+Asian-Green-Bee-Eater     0.9556    0.9333    0.9444       300
+         Cattle-Egret     0.9701    0.9733    0.9717       300
+    Common-Kingfisher     0.9558    0.9367    0.9461       300
+          Common-Myna     0.9481    0.9133    0.9304       300
+    Common-Tailorbird     0.9145    0.9267    0.9205       300
+               Hoopoe     0.9859    0.9333    0.9589       300
+           House-Crow     0.8968    0.9267    0.9115       300
+       Indian-Peacock     0.9038    0.9400    0.9216       300
+         Indian-Pitta     0.9661    0.9500    0.9580       300
+        Indian-Roller     0.8816    0.9433    0.9114       300
+       Rufous-Treepie     0.9827    0.9467    0.9643       300
+          Sarus-Crane     0.9481    0.9733    0.9605       300
+
+             accuracy                         0.9414      3600
+            macro avg     0.9424    0.9414    0.9416      3600
+         weighted avg     0.9424    0.9414    0.9416      3600

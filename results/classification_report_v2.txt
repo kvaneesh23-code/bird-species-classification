@@ -1,0 +1,20 @@
+CNN V2 Classification Report
+
+                       precision    recall  f1-score   support
+
+Asian-Green-Bee-Eater     0.8800    0.8067    0.8417       300
+         Cattle-Egret     0.8571    0.8200    0.8382       300
+    Common-Kingfisher     0.9723    0.8200    0.8897       300
+          Common-Myna     0.8109    0.8433    0.8268       300
+    Common-Tailorbird     0.8681    0.4167    0.5631       300
+               Hoopoe     0.8316    0.8067    0.8190       300
+           House-Crow     0.6630    0.7933    0.7223       300
+       Indian-Peacock     0.4663    0.9467    0.6249       300
+         Indian-Pitta     0.9394    0.6200    0.7470       300
+        Indian-Roller     0.8157    0.5900    0.6847       300
+       Rufous-Treepie     0.8921    0.9367    0.9138       300
+          Sarus-Crane     0.7412    0.8400    0.7875       300
+
+             accuracy                         0.7700      3600
+            macro avg     0.8115    0.7700    0.7716      3600
+         weighted avg     0.8115    0.7700    0.7716      3600
